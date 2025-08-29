@@ -39,7 +39,7 @@ The dataset includes anonymized job listings and employee records with fields su
 Created by **Abhishek Upadhayay**  
 📧 abhishek.email@example.com  
 
-Show what the dashboard looks like. -![Alt text](https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png)
+Show what the dashboard looks like. -![Alt text](https://github.com/Upadhayay0211/Microsoft-Power-BI-Project2/blob/main/image.png)
 
 ---
 
